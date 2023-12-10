@@ -1,0 +1,28 @@
+/* PostPage.css */
+.post-page-container {
+  padding: 20px;
+  font-family: "Arial", sans-serif;
+}
+
+.post-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.post-input,
+.post-textarea {
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.post-submit-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
